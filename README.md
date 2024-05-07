@@ -9,3 +9,11 @@
 <p>Após finalizarmos o projeto para desktop, temos que adptá-lo para mobile.</p>
 <br>
 <h3> Esse o foi meu resultado :</h3>
+<br>
+
+<div display= inline-block>
+<img src="https://github.com/lucaslevi2003/Desafio-2-DevClub/blob/master/assets/Mobile.jpeg" width= 200px height=400px>
+</div>
+<div display= inline-block>
+<img src="https://github.com/lucaslevi2003/Desafio-2-DevClub/blob/master/assets/Desktop.jpeg" width= 700px>
+</div>
